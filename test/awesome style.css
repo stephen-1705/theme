@@ -1,0 +1,43 @@
+html
+{
+	background-color:white;
+}
+header
+{
+	background-color:lightgrey;
+	padding:10px;
+	font-family: 'Times New Roman', Times, serif;
+	padding :20px;
+}
+body
+{
+	background-color: lightgrey;
+	font-family: 'Lucida Sans';
+}
+footer
+{
+	background-color: black;
+	color: white;
+	position: relative;
+	padding:20px;
+}
+#head
+{
+	color:white;
+	background-color:darkgrey;
+}
+ul
+{
+list-style-type:none;
+}
+ul li
+{
+	background-color:lightblue;
+	float:right;
+	padding :10px;
+} 
+#sidebar .widgets-area
+{
+	float:right;
+	background-color: aqua;
+}

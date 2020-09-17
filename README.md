@@ -1,2 +1,2 @@
 # theme
-worrdpress theme
+wordpress theme
